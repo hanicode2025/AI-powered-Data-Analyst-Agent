@@ -1,1 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
 seaborn
+scikit-learn
+openpyxl
+PyPDF2
+pdfplumber
